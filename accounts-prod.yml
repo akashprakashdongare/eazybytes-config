@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message : "Welcome to EazyBank accounts related Prod APIs"
+  message : "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
     name : "Akash Dongare - Prod Support"
     email : "{cipher}29af03c4704d83ff94247f0126eab744ab79c5d7e9054942feb91edd990e8da28eac3af5bdc0eaa125f68c8c118831d9"
