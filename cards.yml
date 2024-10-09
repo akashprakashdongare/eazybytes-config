@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message : "Welcome to the Cards microservice local APIs"
+  contactDetails:
+    name: "Akash Dongare"
+    email: "akashdng12@gmail.com"
+  onCallSupport:
+    - "9137331096"
+    - "8605249684"

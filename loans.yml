@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Loan Service local API's"
+  contactDetails:
+    name: "Developer Team"
+    email: "devloper_team@gmail.com"
+  onCallSupport:
+    - "021-21212"
+    - "021-21213"

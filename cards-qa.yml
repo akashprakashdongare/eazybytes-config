@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message : "Welcome to the Cards microservice QA APIs"
+  contactDetails:
+    name: "Abc Kumar"
+    email: "abc_kumar@gmail.com"
+  onCallSupport:
+    - "8975237489"
+    - "7639728394"

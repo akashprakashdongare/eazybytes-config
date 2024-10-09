@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loan Service Prod API's"
+  contactDetails:
+    name: "Prod Team"
+    email: "prod_team@gmail.com"
+  onCallSupport:
+    - "021-21212"
+    - "021-21213"
