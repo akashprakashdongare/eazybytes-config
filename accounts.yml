@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 accounts:
-  message : "Welcome to EazyBank accounts Local Dev APIs"
+  message : "Welcome to EazyBank Accounts Local Dev APIs"
   contactDetails:
-    name : "Akash Dongare - Developer"
+    name : "Akash Dongare - Developer Lead"
     email : "akash_dongare@eazybank.com"
   onCallSupport:
     - (555)555-1234
