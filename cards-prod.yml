@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message : "Welcome to the Cards microservice Prod APIs"
+  message : "Welcome to the Cards microservice Production Support APIs"
   contactDetails:
     name: "Prod Support Team"
     email: "prod_support@gmail.com"

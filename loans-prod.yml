@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loan Service Prod API's"
+  message: "Welcome to Loan Service Production Support API's"
   contactDetails:
     name: "Prod Team"
     email: "prod_team@gmail.com"

@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message : "Welcome to EazyBank accounts related Prod APIs"
+  message : "Welcome to EazyBank accounts related Prod Support APIs"
   contactDetails:
-    name : "Naresh Kumar - Prod Support"
-    email : "nareshkumar@eazybank.com"
+    name : "Virat Kohli - Prod Support"
+    email : "{cipher}29af03c4704d83ff94247f0126eab744ab79c5d7e9054942feb91edd990e8da28eac3af5bdc0eaa125f68c8c118831d9"
   onCallSupport:
-    - (555)555-1236
-    - (555)523-1342
+    - (021)212-2111
+    - (021)524-9684
